@@ -5,3 +5,5 @@ one more  bug detected and fixed.
 Another  bug fuxed.
 
 another fix message for fix.
+
+another fix message for purple.
