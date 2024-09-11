@@ -3,3 +3,5 @@ i am a fixed file which will be used to fix the bug.
 one more  bug detected and fixed.
 
 Another  bug fuxed.
+
+another fix message for fix.
